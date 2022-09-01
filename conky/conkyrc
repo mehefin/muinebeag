@@ -1,0 +1,8 @@
+out_to_console yes
+out_to_x no
+total_run_times 0
+update_interval 1.0
+uppercase no
+use_spacer none
+TEXT
+${uptime_short} · ${acpitemp} · ${memperc} · ${cpu} · ${time %b %d %I:%M:%S %a %g}
